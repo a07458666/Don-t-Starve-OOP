@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game.vcxproj", "{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "..\Setup1\Setup1.isproj", "{3A01662E-8368-42E4-A55F-2924D2037465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.CD_ROM|Win32.ActiveCfg = Template|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.CD_ROM|Win32.Build.0 = Template|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|Win32.Build.0 = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.DVD-5|Win32.Build.0 = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|Win32.ActiveCfg = Release|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|Win32.Build.0 = Release|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.SingleImage|Win32.ActiveCfg = Template|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.SingleImage|Win32.Build.0 = Template|Win32
+		{3A01662E-8368-42E4-A55F-2924D2037465}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{3A01662E-8368-42E4-A55F-2924D2037465}.CD_ROM|Win32.Build.0 = CD_ROM
+		{3A01662E-8368-42E4-A55F-2924D2037465}.Debug|Win32.ActiveCfg = DVD-5
+		{3A01662E-8368-42E4-A55F-2924D2037465}.Debug|Win32.Build.0 = DVD-5
+		{3A01662E-8368-42E4-A55F-2924D2037465}.DVD-5|Win32.ActiveCfg = DVD-5
+		{3A01662E-8368-42E4-A55F-2924D2037465}.DVD-5|Win32.Build.0 = DVD-5
+		{3A01662E-8368-42E4-A55F-2924D2037465}.Release|Win32.ActiveCfg = SingleImage
+		{3A01662E-8368-42E4-A55F-2924D2037465}.Release|Win32.Build.0 = SingleImage
+		{3A01662E-8368-42E4-A55F-2924D2037465}.SingleImage|Win32.ActiveCfg = SingleImage
+		{3A01662E-8368-42E4-A55F-2924D2037465}.SingleImage|Win32.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
